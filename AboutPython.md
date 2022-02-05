@@ -1,4 +1,4 @@
-# Python Day 1
+# Python 
 
 * Its both compiler and interpreter language
 * Introduced by **Gudio van rossum in 1991**
