@@ -14,7 +14,7 @@
 * Collection of fucntions (basic block of code)
  
 > what's Package?
-* Collevtion of modules
+* Collection of modules
 
 > what's Library?
 * Collection of Packages
@@ -24,7 +24,7 @@
 
 
 > Why to learn Python?
-* HIgh demand
+* High demand
 * less Code and easy to code
 * easy to understand
 
