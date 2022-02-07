@@ -10,5 +10,12 @@ a=99.11
 b=int(a)
 print(b)
 
+'''if we want to convert a list into string
+
+a=['joey','is','foodie']
+s=' '.join(map(str,a))
+print(s)
+'''
+
 
 # we cant change str to int or float
